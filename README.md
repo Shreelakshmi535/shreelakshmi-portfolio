@@ -37,12 +37,7 @@ Currently upskilling in cloud-native platforms and contributing to projects that
 ### 🧰 Tech Toolbox
 
 #### 📊 Data Analysis & Visualization  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
-![SQL](https://img.shields.io/badge/-SQL-336791?logo=mysql&logoColor=white&style=for-the-badge)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)  
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge)  
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)   
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  ![SQL](https://img.shields.io/badge/-SQL-336791?logo=mysql&logoColor=white&style=for-the-badge)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)  ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=black&style=for-the-badge)  ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)   
 ![Excel](https://img.shields.io/badge/-MS%20Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)  
 
 ---
